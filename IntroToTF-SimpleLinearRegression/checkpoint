@@ -1,0 +1,5 @@
+model_checkpoint_path: "simple_linear_model-8"
+all_model_checkpoint_paths: "simple_linear_model-5"
+all_model_checkpoint_paths: "simple_linear_model-6"
+all_model_checkpoint_paths: "simple_linear_model-7"
+all_model_checkpoint_paths: "simple_linear_model-8"
