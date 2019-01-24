@@ -1,4 +1,4 @@
-<p align="center"><img src="https://bit.ly/2TaUlr8"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/23660137/51654390-ae982f80-1fbd-11e9-8d06-86e6a5dcdb76.PNG" height=400></p>
 
 # Machine Learning Crash Course
 
