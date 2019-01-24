@@ -32,7 +32,7 @@ A bit of experience with Python, Pandas and Jupyter Notebook is sufficient. If y
 - [Python-QuickNotes](https://github.com/Openacademyedu/Python-QuickNotes)
 
 ### How much support is available?
-- Join [Weekly Newsletter List]() to receive the emails about latest tutorials in machine learning and deep learning
+- Join [Weekly Newsletter List](https://docs.google.com/forms/d/e/1FAIpQLScPnu2BcgOsOKl1D7LdYlCIaRJHXdwwKVgDwyHIxQ5fiSkH4Q/viewform) to receive the emails about latest tutorials in machine learning and deep learning.
 
 ### About the speaker
 These tutorials are prepared by <b>Praneet Nigam</b>. He was a part of <b>Google Machine Learning Facilitator Program</b> (launched last year in India) for the [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/). You can get in touch with the speaker, by following him on social media handles list down below:
