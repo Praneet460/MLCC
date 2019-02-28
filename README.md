@@ -16,7 +16,7 @@ This repository is created to teach students <i>how to build</i> Machine Learnin
 - <b>IntroToTF-Autograd: </b>How to perform automatic differentiation. [Autograd](https://github.com/Praneet460/MLCC/blob/master/IntroToTF-Autograd/Autograd.ipynb)
 - <b>IntoToTF-SimpleLinearRegression: </b>Create a simple linear regression model with only one dependent and independent variable. [simple-linear-regression](https://github.com/Praneet460/MLCC/blob/master/IntroToTF-SimpleLinearRegression/simple-linear-regression.ipynb)
 - <b>IntroToTF-MultiVariateRegression: </b>Predict the fuel efficiency on Auto-MPG dataset. [regression_problem](https://github.com/Praneet460/MLCC/blob/master/IntroToTF-MultiVariateRegression/regression_problem.ipynb) [one_hot_encoding](https://github.com/Praneet460/MLCC/blob/master/IntroToTF-MultiVariateRegression/one_hot_encoding.ipynb)
-- <b>MNIST_Classification: </b>Predict the hand written digits. [mnist](https://github.com/Praneet460/MLCC/blob/master/MNIST_Classification/mnist.ipynb)
+- <b>MNIST_Classification: </b>Predict the hand written digits using Keras sequentional model and functional model. [mnist](https://github.com/Praneet460/MLCC/blob/master/MNIST_Classification/mnist.ipynb) [mnist_functional_model](https://github.com/Praneet460/MLCC/blob/master/MNIST_Classification/mnist_functional_model.ipynb)
 - <b>More tutorials are comming soon. Star the repository to be updated with latest tutorials.</b>
 
 
