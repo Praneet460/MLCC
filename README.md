@@ -27,7 +27,7 @@ This repository is created to teach students <i>how to build</i> Machine Learnin
 ### How to run Jupyter Notebook?
 To run this notebook you need to <b>install necessary packages</b>, listed down. If you have not done so, you will need to install them first, as these are not in the Anaconda distribution as of now. From a command prompt on your computer type the following command. If no error occurs, you will have installed them.
 
-```pip install numpy```  ```pip install pandas``` ```pip install matplotlib``` ```pip install seaborn``` ```pip install tensorflow``` 
+``'pip install -r requirements.txt'`` 
 
 
 ### Pre-requisite
